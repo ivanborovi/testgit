@@ -7,4 +7,3 @@ public class Hello
 	System.Console.WriteLine("Hello, GitHub!");
    }
 }
-V l
